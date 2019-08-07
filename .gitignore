@@ -1,0 +1,52 @@
+# Created by .ignore support plugin (hsz.mobi)
+tmp*
+./tmp/*
+
+*.bak
+*.jar
+*.svn
+*.diff
+#
+.idea/
+target/
+build/
+/logs
+*/*.log
+.tags*
+#
+.gradle
+.vagrant
+Vagrantfile.local
+#
+dist
+*classes
+
+.settings/
+build_info.properties
+.arcconfig
+
+# Scala package
+*.class
+*.scala_dependencies
+*.worksheet
+*.idea
+*.iml
+*.classpath
+*.project
+*.settings
+*.bak
+
+# Eclipse project config
+.project
+.cproject
+.pydevproject
+CMakeFiles
+cmake_install.cmake
+lib
+
+# Mac OS X
+.DS_Store
+
+dependency-reduced-pom.xml
+app-bi-be/scalastyle-output.xml
+
